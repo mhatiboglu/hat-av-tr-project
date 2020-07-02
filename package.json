@@ -5,7 +5,8 @@
   "scripts": {
     "dev": "next dev",
     "build": "next build",
-    "start": "next start -p $PORT"
+    "start": "next start -p $PORT",
+    "deploy": "npm run build && npm run export"
   },
   "dependencies": {
     "heroku": "^7.42.2",
