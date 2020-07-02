@@ -19,7 +19,7 @@ export default function Home() {
 
         <div className="grid">
           <a href="#" className="card">
-            <h3>Irtibat icin &rarr;</h3>
+            <h3>Irtibat : &rarr;</h3>
             <p>av.mervehatiboglu@gmail.com</p>
           </a>
         </div>
